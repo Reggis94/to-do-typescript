@@ -1,4 +1,4 @@
-# To-Do Application (TypeScript)
+# To-Do Application (TypeScript) by Régis Boamah
 
 This project is a simple To-Do application built with TypeScript, designed to introduce students to the basics of TypeScript. It serves as an introductory chapter for a course on TypeScript technology, showcasing key syntax and concepts in a real-world context.
 
